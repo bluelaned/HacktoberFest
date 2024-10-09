@@ -32,4 +32,4 @@ if __name__ == "__main__":
         elif choice == '3':
             break
         else:
-            print("Invalid choice, try again.")
+            print("Invalid choice, coba lagi.")
